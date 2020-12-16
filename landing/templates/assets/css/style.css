@@ -64,18 +64,14 @@
 	font-style: normal;
 	font-weight: 500;
 	src: url('../fonts/eot/Anjoman-Medium.eot');
-	src: url('../fonts/eot/Anjoman-Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-		 url('../fonts/woff2/Anjoman-Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-		 url('../fonts/woff/Anjoman-Medium.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	src: url('../fonts/eot/Anjoman-Medium.eot?#iefix') format('embedded-opentype');  /* IE6-8 */
 }
 @font-face {
 	font-family: Anjoman;
 	font-style: normal;
 	font-weight: 600;
 	src: url('../fonts/eot/Anjoman-SemiBold.eot');
-	src: url('../fonts/eot/Anjoman-SemiBold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
-		 url('../fonts/woff2/Anjoman-SemiBold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
-		 url('../fonts/woff/Anjoman-SemiBold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	src: url('../fonts/eot/Anjoman-SemiBold.eot?#iefix') format('embedded-opentype');  /* IE6-8 */
 }
 @font-face {
 	font-family: Anjoman;
